@@ -13,5 +13,4 @@ Hva jeg håper og lære?
 Jeg håper og lære mer om IT og lære mer hvordan nett, koding og slikt fungerer.
 
 ###Skole###
- https://www.gjennestadvgs.no
- 
+ [https://www.gjennestadvgs.no]
