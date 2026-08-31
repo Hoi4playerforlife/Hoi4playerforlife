@@ -14,3 +14,5 @@ Jeg håper og lære mer om IT og lære mer hvordan nett, koding og slikt fungere
 
 ### Skole
  [https://www.gjennestadvgs.no]
+
+![Eminem](https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/3/2022/09/36079964425_7b3042d5e1_k.jpg)
