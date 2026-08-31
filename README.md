@@ -1,7 +1,7 @@
-### Heading level 3 Heisann!
+### Heisann!
 Jeg heter Theodor Lysnes, jeg går på gjennestad vgs.
 
-### Heading level 3 Intresser:
+### Intresser:
 1. Hearts Of Iron IV
 2. Jobbe ute i hagen
 3. Eminem
@@ -12,5 +12,5 @@ Jeg valgte IM fordi jeg syntes det var spennende, og interessant:D det var også
 Hva jeg håper og lære? 
 Jeg håper og lære mer om IT og lære mer hvordan nett, koding og slikt fungerer.
 
-### Heading level 3 Skole
+### Skole
  [https://www.gjennestadvgs.no]
