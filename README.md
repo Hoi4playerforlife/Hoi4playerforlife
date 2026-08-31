@@ -1,16 +1,16 @@
-## Hi there 👋
+Heisann!
+Theodor Lysnes, jeg går på gjennestad vgs.
 
-<!--
-**Hoi4playerforlife/Hoi4playerforlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Intresser:###
+1. Hearts Of Iron IV
+2. Jobbe ute i hagen
+3. Eminem
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jeg valgte IM fordi jeg syntes det var spennende, og interessant:D det var også fordi jeg så faren min gjøre noe IT greier og syntes det så spennende ut, hvis ikke jeg hadde valgt IT hadde jeg valgt Helse og oppvekst og blitt en som passet på barn.
+
+Hva jeg håper og lære? 
+Jeg håper og lære mer om IT og lære mer hvordan nett, koding og slikt fungerer.
+
+###Skole###
+ [https://www.gjennestadvgs.no]
