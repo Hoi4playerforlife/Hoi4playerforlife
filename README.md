@@ -11,3 +11,7 @@ Jeg valgte IM fordi jeg syntes det var spennende, og interessant:D det var også
 
 Hva jeg håper og lære? 
 Jeg håper og lære mer om IT og lære mer hvordan nett, koding og slikt fungerer.
+
+###Skole###
+ https://www.gjennestadvgs.no
+ 
