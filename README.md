@@ -24,4 +24,4 @@ Jeg valgte IM fordi jeg syntes det var spennende, og interessant:D det var også
 ![Eminem](https://m.media-amazon.com/images/I/815UbQWSslL.jpg)
  
 
-*** eminem *** 
+* EMINƎM
