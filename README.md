@@ -13,7 +13,7 @@ Jeg valgte IM fordi jeg syntes det var spennende, og interessant:D det var også
 
 
 ### Hva jeg håper og lære?
-Jeg håper og lære mer om IT og lære mer hvordan nett, koding og slikt fungerer.
+ Jeg håper og lære mer om IT og lære mer hvordan nett, koding og slikt fungerer.
 
 ---
 
@@ -22,3 +22,6 @@ Jeg håper og lære mer om IT og lære mer hvordan nett, koding og slikt fungere
 
 
 ![Eminem](https://m.media-amazon.com/images/I/815UbQWSslL.jpg)
+ 
+
+*** eminem *** 
